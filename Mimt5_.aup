@@ -1,9 +1,9 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="Mimt5__data" version="1.3.0" audacityversion="2.3.2" sel0="2759.0244342848" sel1="2759.0244342848" vpos="0" h="2727.7648114277" zoom="37.9083268348" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + samples" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Mimt5__data" version="1.3.0" audacityversion="2.1.3" sel0="2757.4996918615" sel1="2759.0244375033" vpos="0" h="2752.5224278163" zoom="188.6578633301" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + samples" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags/>
-	<wavetrack name="Zinia" channel="2" linked="0" mute="0" solo="0" height="440" minimized="0" isSelected="1" rate="48000" gain="1.0" pan="0.0" colorindex="0">
-		<waveclip offset="0.00000000" colorindex="0">
+	<wavetrack name="Zinia" channel="2" linked="0" mute="0" solo="0" height="126" minimized="0" isSelected="1" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="34979755">
 				<waveblock start="0">
 					<simpleblockfile filename="e08033cd.au" len="135522" min="-0.000254" max="0.000254" rms="0.000031"/>
@@ -207,10 +207,13 @@
 					<simpleblockfile filename="e0803b36.au" len="181983" min="-0.607816" max="0.86686" rms="0.086454"/>
 				</waveblock>
 				<waveblock start="16133729">
-					<simpleblockfile filename="e0803664.au" len="219409" min="-0.543767" max="0.608116" rms="0.082503"/>
+					<simpleblockfile filename="e0800a00.au" len="180481" min="-0.52997" max="0.608116" rms="0.073763"/>
 				</waveblock>
-				<waveblock start="16353138">
-					<simpleblockfile filename="e080819b.au" len="262144" min="-0.834601" max="0.824521" rms="0.100405"/>
+				<waveblock start="16314210">
+					<simpleblockfile filename="e0800866.au" len="150536" min="-0.635454" max="0.824521" rms="0.118462"/>
+				</waveblock>
+				<waveblock start="16464746">
+					<simpleblockfile filename="e0800160.au" len="150536" min="-0.834601" max="0.811013" rms="0.083185"/>
 				</waveblock>
 				<waveblock start="16615282">
 					<simpleblockfile filename="e08031fd.au" len="192424" min="-0.784791" max="0.83552" rms="0.103167"/>
@@ -435,15 +438,15 @@
 					<simpleblockfile filename="e08032c8.au" len="250269" min="-0.697633" max="0.788369" rms="0.098518"/>
 				</waveblock>
 				<waveblock start="34577733">
-					<simpleblockfile filename="e08030cf.au" len="227169" min="-0.702623" max="0.82094" rms="0.112035"/>
+					<simpleblockfile filename="e080020a.au" len="201011" min="-0.702623" max="0.82094" rms="0.113936"/>
 				</waveblock>
-				<waveblock start="34804902">
-					<simpleblockfile filename="e0803bb2.au" len="174853" min="-0.242831" max="0.412869" rms="0.011408"/>
+				<waveblock start="34778744">
+					<simpleblockfile filename="e0800565.au" len="201011" min="-0.563886" max="0.684896" rms="0.036291"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
-		<waveclip offset="728.74489583" colorindex="0">
+		<waveclip offset="728.74489583">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="6068324">
 				<waveblock start="0">
 					<simpleblockfile filename="e0803399.au" len="155070" min="-0.53722" max="0.66539" rms="0.117198"/>
@@ -523,7 +526,7 @@
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
-		<waveclip offset="855.16831250" colorindex="0">
+		<waveclip offset="855.16831250">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="6371582">
 				<waveblock start="0">
 					<simpleblockfile filename="e080335d.au" len="127255" min="-0.560813" max="0.579355" rms="0.114034"/>
@@ -606,7 +609,7 @@
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
-		<waveclip offset="987.90960417" colorindex="0">
+		<waveclip offset="987.90960417">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="12093596">
 				<waveblock start="0">
 					<simpleblockfile filename="e0803b8c.au" len="191948" min="-0.644117" max="0.844931" rms="0.097755"/>
@@ -758,7 +761,7 @@
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
-		<waveclip offset="1239.85952083" colorindex="0">
+		<waveclip offset="1239.85952083">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="34938604">
 				<waveblock start="0">
 					<simpleblockfile filename="e0808853.au" len="170108" min="-0.628219" max="0.680514" rms="0.117761"/>
@@ -1180,7 +1183,7 @@
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
-		<waveclip offset="1967.74710417" colorindex="0">
+		<waveclip offset="1967.74710417">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="20463261">
 				<waveblock start="0">
 					<simpleblockfile filename="e080c1fd.au" len="222904" min="-0.585915" max="0.843772" rms="0.108569"/>
@@ -1428,7 +1431,7 @@
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
-		<waveclip offset="2394.06504167" colorindex="0">
+		<waveclip offset="2394.06504167">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="9507990">
 				<waveblock start="0">
 					<simpleblockfile filename="e080c513.au" len="212966" min="-0.471736" max="0.591599" rms="0.112404"/>
@@ -1547,7 +1550,7 @@
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
-		<waveclip offset="2592.14816667" colorindex="0">
+		<waveclip offset="2592.14816667">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="8010061">
 				<waveblock start="0">
 					<simpleblockfile filename="e080c89a.au" len="181753" min="-0.462112" max="0.471218" rms="0.079187"/>
@@ -1649,8 +1652,8 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Maya" channel="2" linked="0" mute="0" solo="0" height="389" minimized="0" isSelected="1" rate="48000" gain="1.0" pan="0.0" colorindex="0">
-		<waveclip offset="0.00000000" colorindex="0">
+	<wavetrack name="Maya" channel="2" linked="0" mute="0" solo="0" height="136" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="22013739">
 				<waveblock start="0">
 					<simpleblockfile filename="e0803565.au" len="135522" min="-0.576738" max="0.514491" rms="0.119956"/>
@@ -1931,7 +1934,7 @@
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
-		<waveclip offset="458.61956250" colorindex="0">
+		<waveclip offset="458.61956250">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="12966016">
 				<waveblock start="0">
 					<simpleblockfile filename="e08035d2.au" len="188825" min="-0.554722" max="0.535207" rms="0.118226"/>
@@ -2098,7 +2101,7 @@
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
-		<waveclip offset="728.74489583" colorindex="0">
+		<waveclip offset="728.74489583">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="38137057">
 				<waveblock start="0">
 					<simpleblockfile filename="e08032f1.au" len="155070" min="-0.000213" max="0.000233" rms="0.00003"/>
@@ -2556,7 +2559,7 @@
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
-		<waveclip offset="1523.26691667" colorindex="0">
+		<waveclip offset="1523.26691667">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="10314567">
 				<waveblock start="0">
 					<simpleblockfile filename="e08081e8.au" len="179483" min="-0.843354" max="0.630771" rms="0.117903"/>
@@ -2693,7 +2696,7 @@
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
-		<waveclip offset="1738.15372917" colorindex="0">
+		<waveclip offset="1738.15372917">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="3753688">
 				<waveblock start="0">
 					<simpleblockfile filename="e080cee0.au" len="194920" min="-0.846041" max="0.60593" rms="0.109187"/>
@@ -2743,7 +2746,7 @@
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
-		<waveclip offset="1816.35556250" colorindex="0">
+		<waveclip offset="1816.35556250">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="11683660">
 				<waveblock start="0">
 					<simpleblockfile filename="e080c438.au" len="152192" min="-0.515121" max="0.516411" rms="0.105791"/>
@@ -2889,7 +2892,7 @@
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
-		<waveclip offset="2059.76514583" colorindex="0">
+		<waveclip offset="2059.76514583">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="8181949">
 				<waveblock start="0">
 					<simpleblockfile filename="e080cfe1.au" len="195060" min="-0.65362" max="0.582185" rms="0.117292"/>
@@ -2990,7 +2993,7 @@
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
-		<waveclip offset="2230.22241667" colorindex="0">
+		<waveclip offset="2230.22241667">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="15099585">
 				<waveblock start="0">
 					<simpleblockfile filename="e080c695.au" len="135412" min="-0.656049" max="0.615244" rms="0.123302"/>
@@ -3178,7 +3181,7 @@
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
-		<waveclip offset="2544.79710417" colorindex="0">
+		<waveclip offset="2544.79710417">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="10282912">
 				<waveblock start="0">
 					<simpleblockfile filename="e080cdf0.au" len="176042" min="-0.796111" max="0.658894" rms="0.117035"/>
@@ -3307,7 +3310,199 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<labeltrack name="Label Track" numlabels="11" height="73" minimized="0" isSelected="1">
+	<labeltrack name="Label Track" numlabels="190" height="73" minimized="0" isSelected="1">
+		<label t="25.1066558464" t1="25.6012354286" title="mute maya"/>
+		<label t="25.6012354286" t1="29.6102296104" title="cut"/>
+		<label t="52.8573228762" t1="54.0083198567" title="mute m"/>
+		<label t="61.3317493089" t1="62.7206002141" title="mute maya"/>
+		<label t="62.0028327295" t1="62.5922190380" title="cut "/>
+		<label t="63.4161462857" t1="63.9305451429" title="did you do this? or marked for now? do it again if you have already "/>
+		<label t="90.9958805429" t1="91.7117350615" title="cut"/>
+		<label t="107.6158042489" t1="108.5268356708" title="cut"/>
+		<label t="119.9987757232" t1="121.4604090069" title="mute zin "/>
+		<label t="200.5715886652" t1="202.3813348893" title="mute zin"/>
+		<label t="209.4393451633" t1="211.6627476672" title="mute z"/>
+		<label t="215.6220579287" t1="216.6396945985" title="cut"/>
+		<label t="218.8161134564" t1="220.3474143500" title="cut"/>
+		<label t="242.4956196532" t1="242.9325049678" title="mute m"/>
+		<label t="263.9038930929" t1="265.3201264174" title="cut"/>
+		<label t="273.9049193436" t1="281.0486303491" title="mute m"/>
+		<label t="287.2249295343" t1="287.7498283614" title="cut"/>
+		<label t="295.7544785278" t1="297.1500319364" title="cut"/>
+		<label t="311.2420193581" t1="312.3080646918" title="cut"/>
+		<label t="311.4437036105" t1="313.3885160434" title="mute zin"/>
+		<label t="316.1966100281" t1="316.7787830184" title="cut"/>
+		<label t="316.2345778318" t1="317.1078373172" title="mute zin"/>
+		<label t="329.5992437608" t1="330.5723542794" title="mute m"/>
+		<label t="339.1770654247" t1="339.8185577648" title="cut"/>
+		<label t="351.7405592422" t1="352.3795319033" title="mute m"/>
+		<label t="433.6009481134" t1="437.7857099149" title="mute ma"/>
+		<label t="437.3621041104" t1="437.7857099149" title="cut"/>
+		<label t="444.5873769811" t1="446.2479284143" title="cut"/>
+		<label t="465.1704776950" t1="472.5523517167" title="mute zin"/>
+		<label t="472.7420181668" t1="473.6400355690" title="mute maya"/>
+		<label t="478.6249484956" t1="482.0520761326" title="mute zn"/>
+		<label t="483.3264722870" t1="485.5777541010" title="mute zin"/>
+		<label t="485.5027113738" t1="485.9829848275" title="cut"/>
+		<label t="487.9130159736" t1="488.6331795191" title="mute zin"/>
+		<label t="514.4545215114" t1="517.4905083173" title="mute maya"/>
+		<label t="514.6137515886" t1="516.0786682992" title="cut"/>
+		<label t="524.7217005969" t1="525.6518774824" title="mute m"/>
+		<label t="526.3654378329" t1="532.7110280926" title="mute zin"/>
+		<label t="534.3687665424" t1="536.0721229592" title="cut"/>
+		<label t="538.3655591641" t1="539.3091955875" title="cut"/>
+		<label t="560.7690760204" t1="561.5916036004" title="cut"/>
+		<label t="609.3386413606" t1="609.8313290869" title="cut "/>
+		<label t="612.9277223424" t1="613.6647646040" title="cut"/>
+		<label t="627.9609362955" t1="630.5428172718" title="mute zin"/>
+		<label t="630.7040320609" t1="631.4275057341" title="mute ma"/>
+		<label t="634.2679400571" t1="634.9954103413" title=""/>
+		<label t="639.9427408035" t1="640.5734278501" title="mute m"/>
+		<label t="643.4047084867" t1="644.0581837086" title=""/>
+		<label t="654.3752614885" t1="655.2990053102" title="mute m"/>
+		<label t="674.7804776946" t1="679.1835877918" title="mute ma"/>
+		<label t="694.9112216429" t1="697.8285526073" title="cut"/>
+		<label t="701.7277423804" t1="702.3496366651" title="mute maya"/>
+		<label t="718.1602633524" t1="718.2133319970" title="fox3"/>
+		<label t="718.2133319970" t1="720.3837814952" title="cut "/>
+		<label t="725.4461832671" t1="728.7448958333" title="cut"/>
+		<label t="732.3557780728" t1="733.4631046638" title=""/>
+		<label t="772.5838641533" t1="773.3756490288" title="cut"/>
+		<label t="772.8096465592" t1="773.7158690925" title="mute m"/>
+		<label t="776.2636316382" t1="776.7103221837" title="mute m"/>
+		<label t="798.1172198489" t1="799.5356409972" title="cut"/>
+		<label t="812.8069978674" t1="814.9172713366" title="mute maya"/>
+		<label t="813.8009672551" t1="814.9172713366" title="cut"/>
+		<label t="892.5799028836" t1="893.1113126858" title="mute maya"/>
+		<label t="892.7215562906" t1="893.2255946971" title="cut"/>
+		<label t="894.5209870928" t1="895.0295975554" title=""/>
+		<label t="904.9982863058" t1="905.5712619043" title="cut"/>
+		<label t="960.6057200972" t1="960.8276512628" title="fox3"/>
+		<label t="960.8276512628" t1="961.5502178484" title="cut"/>
+		<label t="966.5885471306" t1="967.5053219362" title="remove"/>
+		<label t="969.6889190345" t1="971.6636368701" title="mute maya"/>
+		<label t="969.8286396361" t1="970.5272426439" title="see if you can boost gain on zin track here"/>
+		<label t="980.8894415741" t1="981.7020488805" title="mute zin"/>
+		<label t="1005.2985333190" t1="1005.5059356129" title="cut"/>
+		<label t="1023.7498083183" t1="1027.1667849830" title="remove"/>
+		<label t="1038.0241831444" t1="1039.0028718574" title="remove"/>
+		<label t="1044.8006788884" t1="1045.3590278090" title="mute maya"/>
+		<label t="1063.9477331780" t1="1075.2306512231" title="mute maya"/>
+		<label t="1087.1366035897" t1="1089.0161205660" title="cut"/>
+		<label t="1088.4757191102" t1="1089.3510801461" title="mute zin"/>
+		<label t="1097.3647494959" t1="1099.1147668315" title="cut"/>
+		<label t="1102.0462857833" t1="1102.8223881423" title="cut"/>
+		<label t="1120.7258953973" t1="1121.7474663638" title="mute m"/>
+		<label t="1129.9304582893" t1="1130.8269389333" title="mute m"/>
+		<label t="1140.5527115020" t1="1141.2928292430" title="mute m"/>
+		<label t="1144.5145107671" t1="1145.7226132072" title="cut"/>
+		<label t="1148.6298884376" t1="1150.2406916911" title="cut"/>
+		<label t="1152.6568965714" t1="1153.4411034185" title="mute m"/>
+		<label t="1153.1475181020" t1="1153.4725246676" title="cut"/>
+		<label t="1162.2800032473" t1="1163.5514254267" title="cut"/>
+		<label t="1166.3002872683" t1="1168.2191929650" title="cut"/>
+		<label t="1183.4020642979" t1="1184.4485259090" title="cut"/>
+		<label t="1198.8863440618" t1="1203.6030758701" title="mute zin"/>
+		<label t="1201.9998517579" t1="1202.4877895311" title="cut"/>
+		<label t="1207.3826636946" t1="1212.5817065970" title="cut"/>
+		<label t="1247.7887371097" t1="1248.4397470405" title="cut"/>
+		<label t="1253.8309138773" t1="1254.4274977539" title="mute m"/>
+		<label t="1254.0259255537" t1="1254.3006720309" title="cut"/>
+		<label t="1260.4272792884" t1="1262.0013377863" title="cut"/>
+		<label t="1275.3816952701" t1="1275.9666069756" title="mute m"/>
+		<label t="1308.2397396345" t1="1309.2662337519" title="mute m"/>
+		<label t="1337.7763696096" t1="1338.9889433485" title="mute m"/>
+		<label t="1337.9498485056" t1="1338.9204013207" title="cut"/>
+		<label t="1366.6273678302" t1="1367.9525325714" title="cut"/>
+		<label t="1378.0316648002" t1="1379.6022964687" title="cut"/>
+		<label t="1391.7105218830" t1="1394.3728670871" title="mute z"/>
+		<label t="1446.8796859474" t1="1451.6872249191" title="mute m"/>
+		<label t="1455.1834710786" t1="1455.7038642916" title=""/>
+		<label t="1466.8962572815" t1="1467.5295911556" title="mute zin"/>
+		<label t="1489.3311641772" t1="1490.1487293177" title="mute m"/>
+		<label t="1498.2005072160" t1="1498.9932976552" title="mute m"/>
+		<label t="1630.6431045280" t1="1633.8720610594" title="mute m"/>
+		<label t="1630.7128889686" t1="1633.5729415707" title="cut"/>
+		<label t="1642.8508039137" t1="1643.7426962074" title="cut"/>
+		<label t="1647.2054223294" t1="1647.8580264468" title="cut"/>
+		<label t="1656.3703756538" t1="1672.8906683077" title="mute m"/>
+		<label t="1834.4734831966" t1="1842.3053896930" title="mute zin"/>
+		<label t="1877.7657564843" t1="1879.1095495889" title="mute z"/>
+		<label t="1882.0681416106" t1="1883.1602845764" title="mute zin"/>
+		<label t="1893.1612212943" t1="1894.4307065081" title="mute z"/>
+		<label t="1907.2453260993" t1="1908.0896872192" title="cut"/>
+		<label t="1909.5893756926" t1="1910.9653012712" title="cut"/>
+		<label t="1920.7707133744" t1="1921.7051486838" title="cut"/>
+		<label t="1944.6165898823" t1="1945.3034436566" title="mute m"/>
+		<label t="1951.5996032542" t1="1953.0114693457" title="mute m"/>
+		<label t="1958.4854602860" t1="1959.7049945853" title="cut"/>
+		<label t="1961.6273297075" t1="1967.7471041700" title="cut. missed out on a few of these non content bits"/>
+		<label t="2056.9181644544" t1="2058.5957952760" title="mute"/>
+		<label t="2099.6379568490" t1="2101.0894573377" title="mute z"/>
+		<label t="2104.3180925432" t1="2105.2366749780" title="cut"/>
+		<label t="2113.5121671594" t1="2114.5007085168" title="cut"/>
+		<label t="2118.0175771624" t1="2118.8658675423" title="cut"/>
+		<label t="2118.7169655075" t1="2119.1230619660" title="mute m"/>
+		<label t="2123.5072423934" t1="2124.6290961306" title="cut"/>
+		<label t="2135.1617701820" t1="2136.7489669606" title="cut"/>
+		<label t="2144.6261657879" t1="2145.4638529766" title="mute"/>
+		<label t="2159.0963723389" t1="2159.6798555782" title="mute m"/>
+		<label t="2175.7079446363" t1="2177.7848858100" title="cut"/>
+		<label t="2178.3298088075" t1="2179.5011986975" title="cut"/>
+		<label t="2181.4884767888" t1="2182.9745461542" title="cut"/>
+		<label t="2201.1737268677" t1="2202.1677412168" title="cut"/>
+		<label t="2212.9319673385" t1="2214.0767730913" title="cut"/>
+		<label t="2215.5347856602" t1="2217.5260547892" title="cut"/>
+		<label t="2230.2224166633" t1="2230.6438385410" title="cut"/>
+		<label t="2244.9248376637" t1="2246.8126745380" title="cut"/>
+		<label t="2267.8640811147" t1="2271.4103015715" title="cut"/>
+		<label t="2274.8907650061" t1="2277.5228889392" title="mute zin"/>
+		<label t="2284.6363763595" t1="2287.1173171781" title="cut"/>
+		<label t="2289.3517542616" t1="2290.8705353397" title="zin"/>
+		<label t="2314.3502561552" t1="2315.3220859066" title="mute zin"/>
+		<label t="2336.0293189316" t1="2336.9626205752" title="cut"/>
+		<label t="2350.2943198654" t1="2363.2979308379" title="mute zin"/>
+		<label t="2388.1205859054" t1="2390.2129257258" title="cut"/>
+		<label t="2398.4791390838" t1="2400.2736979927" title="mute zin"/>
+		<label t="2400.3289989211" t1="2400.7361142239" title="cut"/>
+		<label t="2402.7231855990" t1="2405.7698827716" title="mute zin"/>
+		<label t="2403.9038431652" t1="2405.1030913211" title="cut"/>
+		<label t="2484.0961424245" t1="2485.1258299706" title="cut"/>
+		<label t="2486.7046842079" t1="2488.6267676272" title="mute m"/>
+		<label t="2504.6957778769" t1="2505.1925836088" title="mute z"/>
+		<label t="2504.8769658497" t1="2505.9056459534" title="cut"/>
+		<label t="2508.7645175912" t1="2511.2544140003" title="mute z"/>
+		<label t="2517.1219837625" t1="2518.1632718584" title="cut"/>
+		<label t="2518.6597638854" t1="2519.5731626532" title="cut"/>
+		<label t="2524.3031059780" t1="2524.8646195164" title="remove"/>
+		<label t="2525.6941248556" t1="2528.2776213861" title="mute z"/>
+		<label t="2552.9983239184" t1="2553.9943836716" title="cut"/>
+		<label t="2560.4080367163" t1="2563.1289804323" title="cut"/>
+		<label t="2571.4578839877" t1="2574.7341995831" title="mute m"/>
+		<label t="2572.6028329861" t1="2574.0208082841" title="cut"/>
+		<label t="2579.5345670164" t1="2580.3065350228" title="cut"/>
+		<label t="2589.9116968303" t1="2590.4155233809" title="remove"/>
+		<label t="2599.4190410033" t1="2602.9483202736" title="cut"/>
+		<label t="2599.4190410033" t1="2600.1506766436" title="remiove"/>
+		<label t="2603.8740736298" t1="2604.1642128089" title="cut"/>
+		<label t="2626.1378161368" t1="2627.0547999217" title="cut"/>
+		<label t="2635.1521375794" t1="2635.7446689213" title="cut"/>
+		<label t="2645.4671163089" t1="2646.4517640366" title="mutem"/>
+		<label t="2670.0969393967" t1="2672.0681372028" title="mute m"/>
+		<label t="2713.5962750430" t1="2715.2574169618" title="mute m"/>
+		<label t="2713.8512584527" t1="2715.5011511034" title="cut"/>
+		<label t="2716.5182481755" t1="2717.8685313621" title="mute m"/>
+		<label t="2722.0252854857" t1="2723.0975691927" title="mute m"/>
+		<label t="2729.9034291781" t1="2731.0935767182" title="cut"/>
+		<label t="2733.3329050617" t1="2734.3286225582" title="cut"/>
+		<label t="2740.1990856826" t1="2741.0969483155" title="found quite a few umms. Rd1 here could have been much tighter. Lets make sure to keep an eye out next time"/>
+		<label t="2750.7606666081" t1="2751.5355092654" title="cut"/>
+		<label t="2751.5843732167" t1="2751.6402177326" title="cut"/>
+		<label t="2753.8331777453" t1="2754.3791396161" title="cut"/>
+		<label t="2755.6338804196" t1="2756.1745416897" title="cut"/>
+		<label t="2757.4996918615" t1="2759.0244375033" title="cut"/>
+	</labeltrack>
+	<labeltrack name="Label Track" numlabels="11" height="73" minimized="0" isSelected="0">
 		<label t="0.0000000000" t1="0.0000000000" title="starts here"/>
 		<label t="23.8338137143" t1="25.6012354286" title="the same overspeak issue"/>
 		<label t="63.4161462857" t1="63.9305451429" title="fox"/>
